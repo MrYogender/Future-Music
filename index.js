@@ -45,7 +45,7 @@ const client = new Discord.Client({
       status: "online"
     }
 });
-//BOT CODED BY: Tomato#6966
+//BOT CODED BY: YOGENDER#9138
 //DO NOT SHARE WITHOUT CREDITS!
 //const proxy = 'http://123.123.123.123:8080';
 //const agent = https(proxy);
@@ -113,21 +113,6 @@ client.infos = new Enmap({ name: "infos", dataDir: "./databases/infos"});
     })
 //Start the Bot
 client.login(config.token)
-
-/**
- * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
- * @INFO
- * Work for Milrato Development | https://milrato.eu
- * @INFO
- * Please mention Him / Milrato Development, when using this Code!
- * @INFO
- */
-
-
-
-
-
 
 /**
  * @LOAD_THE_DASHBOARD - Loading the Dashbaord Module with the BotClient into it!
